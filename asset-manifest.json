@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PBTbookingwebsite/static/css/main.6b92ac17.css",
+    "main.js": "/PBTbookingwebsite/static/js/main.ca3e2457.js",
+    "static/js/787.6682c711.chunk.js": "/PBTbookingwebsite/static/js/787.6682c711.chunk.js",
+    "index.html": "/PBTbookingwebsite/index.html",
+    "main.6b92ac17.css.map": "/PBTbookingwebsite/static/css/main.6b92ac17.css.map",
+    "main.ca3e2457.js.map": "/PBTbookingwebsite/static/js/main.ca3e2457.js.map",
+    "787.6682c711.chunk.js.map": "/PBTbookingwebsite/static/js/787.6682c711.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b92ac17.css",
+    "static/js/main.ca3e2457.js"
+  ]
+}
